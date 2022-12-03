@@ -1,0 +1,11 @@
+GPIO23      - DHT22 out
+GPIO22      - RTC scl
+GPIO21      - RTC sda
+GND         - DHT22 gnd, RTC gnd, OLED gnd
+VIN (5V !!) - DHT22 +, RTC vcc, OLED vcc
+GPIO4       - synch. ON/OFF
+GPIO32      - synch. + 
+GPIO33      - synch. -
+GPIO15      - synch. změna
+GPIO19      - OLED scl
+GPIO18      - OLED sda
